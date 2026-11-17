@@ -5,6 +5,21 @@
 
 ---
 
+## Trilha de aprendizado e próximos passos
+
+- [Fundamentos de Terraform](Terraform_basic.md)
+- Guia de referência abaixo: CLI, HCL, módulos, state e troubleshooting.
+
+### Roadmap de laboratórios
+
+- [ ] Configuração mínima reproduzível com variáveis e outputs.
+- [ ] Módulo reutilizável com documentação e validação.
+- [ ] Pipeline de `terraform fmt -check` e `terraform validate`.
+- [ ] Exercícios de state e revisão de plano em ambiente isolado.
+
+Os itens acima são planejados, não implementações concluídas. Revise planos antes de aplicar alterações e não publique state, credenciais ou valores sensíveis.
+
+
 ## 📑 Índice
 
 | # | Tema |
