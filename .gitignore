@@ -1,0 +1,14 @@
+# Terraform generated files and local configuration
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log
+crash.*.log
+*.tfvars
+*.tfvars.json
+!*.example.tfvars
+!*.example.tfvars.json
+.env
+*.pem
+*.key
